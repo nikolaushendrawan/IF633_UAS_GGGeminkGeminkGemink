@@ -22,7 +22,7 @@ Edited : Leo
 
 29 April 2021
 Update 
-- Tambah validasi login firebase(belom dicoba avd gua error)
+- Tambah validasi login firebase(belom dicoba ,avd gua error)
 Change 
 -Ubah username untuk login jadi pake email
 Edited: Niko
