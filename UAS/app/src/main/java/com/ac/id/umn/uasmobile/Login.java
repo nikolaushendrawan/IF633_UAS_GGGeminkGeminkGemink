@@ -47,7 +47,7 @@ public class Login extends AppCompatActivity {
         String password = UserPassword.getText().toString();
 
         if (TextUtils.isEmpty(email)){
-            Toast.makeText(this, "Input Username", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Input Email", Toast.LENGTH_SHORT).show();
         }
         else if (TextUtils.isEmpty(password)){
             Toast.makeText(this, "Input Password", Toast.LENGTH_SHORT).show();
